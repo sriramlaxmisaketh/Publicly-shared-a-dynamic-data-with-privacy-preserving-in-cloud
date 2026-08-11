@@ -1,0 +1,62 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@page import="java.util.List"%>
+<%@page import="com.database.DatabaseImplementation"%>
+
+
+<%@page import="java.sql.DriverManager"%>
+<%@page import="java.sql.ResultSet"%>
+<%@page import="java.sql.Statement"%>
+<%@page import="java.sql.Connection"%>
+<%
+String driver = "com.mysql.jdbc.Driver";
+String connectionUrl = "jdbc:mysql://localhost:3306/vtjcc07";
+String database = "register";
+String userid = "root";
+String password = "root";
+try {
+Class.forName(driver);
+} catch (ClassNotFoundException e) {
+e.printStackTrace();
+}
+Connection connection = null;
+Statement statement = null;
+ResultSet resultSet = null;
+%>
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<body>
+<h1>Retrieve data from database in jsp</h1>
+<table border="1">
+<tr>
+<td>Group name</td>
+<td>Group size</td>
+
+</tr>
+<%
+try{
+connection = DriverManager.getConnection(connectionUrl+database, userid, password);
+statement=connection.createStatement();
+String sql ="select * from groupname(?,?)";
+resultSet = statement.executeQuery(sql);
+int i=0;
+while(resultSet.next()){
+%>
+<tr>
+<td><%=resultSet.getString("groupname") %></td>
+<td><%=resultSet.getString("groupsize") %></td>
+
+<td><a href="Removegroupmember.jsp?id=<%=resultSet.getString("id") %>"><button type="button" class="delete">Delete</button></a></td>
+</tr>
+<%
+i++;
+}
+connection.close();
+} catch (Exception e) {
+e.printStackTrace();
+}
+%>
+</table>
+</body>
+</html>

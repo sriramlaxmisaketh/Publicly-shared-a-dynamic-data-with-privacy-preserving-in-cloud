@@ -1,0 +1,8 @@
+127.0.0.1 - - [24/Dec/2025:12:46:52 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:12:52:30 +0530] "GET /MJCC16-2025/WEB-INF/classes/com/database/Encode.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:12:52:30 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [24/Dec/2025:12:54:31 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:12:54:32 +0530] "GET /MJCC16-2025/WEB-INF/classes/com/database/Encode.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:12:54:32 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:12:55:02 +0530] "GET /MJCC16-2025/WEB-INF/classes/com/database/Encode.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [24/Dec/2025:12:55:02 +0530] "GET /favicon.ico HTTP/1.1" 404 973

@@ -1,0 +1,87 @@
+
+Oct 14, 2025 15:30:12.244 NEW SESSION
+Oct 14, 2025 15:30:12.244 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2025 15:30:12.277 [3864:12108:1014/153012.276:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+
+Oct 14, 2025 15:44:27.427 NEW SESSION
+Oct 14, 2025 15:44:27.427 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 14, 2025 15:44:27.568 [12108:20432:1014/154427.567:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 14, 2025 15:44:53.647 [12108:20432:1014/154453.645:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 14, 2025 15:45:35.735 [12108:20432:1014/154535.733:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 14, 2025 15:47:27.997 [12108:20432:1014/154727.995:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 14, 2025 15:50:23.888 [12108:20432:1014/155023.886:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 14, 2025 15:56:41.861 [12108:20432:1014/155641.861:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+Oct 28, 2025 19:27:59.52 NEW SESSION
+Oct 28, 2025 19:27:59.52 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 28, 2025 19:27:59.275 [12248:4512:1028/192759.259:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+Oct 28, 2025 19:28:25.600 [12248:4512:1028/192825.600:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+
+Oct 29, 2025 19:06:48.117 NEW SESSION
+Oct 29, 2025 19:06:48.117 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 29, 2025 19:06:48.484 [18916:11208:1029/190648.484:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:07:13.440 [18916:11208:1029/190713.440:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:07:59.21 [18916:11208:1029/190759.005:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:09:55.557 [18916:11208:1029/190955.557:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:13:28.197 [18916:11208:1029/191328.197:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:19:05.206 [18916:11208:1029/191905.206:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:35:30.157 [18916:16588:1029/193530.157:ERROR:chrome\browser\ui\views\user_education\impl\browser_user_education_interface_impl.cc:154] Attempting to show IPH IPH_ExtensionsZeroStatePromo before browser initialization complete; IPH will not be shown.
+Oct 29, 2025 19:35:30.559 [18916:11208:1029/193530.559:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:35:31.597 [18916:16588:1029/193531.597:ERROR:mojo\public\cpp\bindings\lib\interface_endpoint_client.cc:732] Message 1 rejected by interface blink.mojom.WidgetHost
+Oct 29, 2025 19:35:51.997 [18916:11208:1029/193551.997:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:36:43.984 [18916:11208:1029/193643.984:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:38:10.134 [18916:11208:1029/193810.134:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:42:12.42 [18916:11208:1029/194212.042:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 29, 2025 19:44:04.630 [18916:16588:1029/194404.630:ERROR:components\device_event_log\device_event_log_impl.cc:198] [19:44:04.637] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 29, 2025 19:49:31.125 [18916:16588:1029/194931.123:ERROR:components\device_event_log\device_event_log_impl.cc:198] [19:49:31.124] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 29, 2025 19:49:48.788 [18916:11208:1029/194948.788:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Oct 30, 2025 11:15:16.803 NEW SESSION
+Oct 30, 2025 11:15:16.803 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2025 11:15:19.892 [18296:18412:1030/111519.892:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Oct 30, 2025 11:15:39.867 [18296:18412:1030/111539.867:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:15:51.399 [18296:18412:1030/111551.399:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Oct 30, 2025 11:15:59.374 [18296:18412:1030/111559.374:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Oct 30, 2025 11:16:04.89 [18296:18412:1030/111604.089:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Oct 30, 2025 11:16:07.386 [18296:18412:1030/111607.386:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Oct 30, 2025 11:16:07.761 [18296:18412:1030/111607.761:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:16:56.549 [18296:18412:1030/111656.549:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 30, 2025 11:17:56.597 [18296:18412:1030/111756.595:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+Oct 30, 2025 11:18:17.952 [18296:18412:1030/111817.952:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+Oct 30, 2025 11:18:59.933 [18296:18412:1030/111859.933:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:19:00.828 [18296:18412:1030/111900.828:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -118
+Oct 30, 2025 11:19:06.584 [18296:18412:1030/111906.582:ERROR:google_apis\gcm\engine\connection_factory_impl.cc:434] Failed to connect to MCS endpoint with error -105
+Oct 30, 2025 11:19:07.624 [18296:18300:1030/111907.624:ERROR:components\device_event_log\device_event_log_impl.cc:198] [11:19:07.624] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+Oct 30, 2025 11:22:30.565 [18296:18412:1030/112230.563:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:26:11.621 [3376:10132:1030/112611.621:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:26:11.639 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2025 11:26:31.959 [3376:10132:1030/112631.959:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:27:20.999 [3376:10132:1030/112720.999:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:29:20.169 [3376:10132:1030/112920.168:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+Oct 30, 2025 11:32:31.437 [3376:10132:1030/113231.437:ERROR:google_apis\gcm\engine\registration_request.cc:275] Registration URL fetching failed.
+
+Oct 30, 2025 18:41:48.192 NEW SESSION
+Oct 30, 2025 18:41:48.194 Created TensorFlow Lite XNNPACK delegate for CPU.
+Oct 30, 2025 18:41:50.655 [17376:14564:1030/184150.655:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 30, 2025 18:42:17.624 [17376:14564:1030/184217.624:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 30, 2025 18:42:59.733 [17376:14564:1030/184259.733:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Oct 30, 2025 18:44:39.735 [17376:14564:1030/184439.735:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Dec 24, 2025 12:52:30.647 NEW SESSION
+Dec 24, 2025 12:52:30.648 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 24, 2025 12:52:33.498 [14136:19644:1224/125233.497:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Dec 24, 2025 12:54:31.980 NEW SESSION
+Dec 24, 2025 12:54:31.980 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 24, 2025 12:54:34.535 [14856:16516:1224/125434.535:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 24, 2025 12:55:02.431 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 24, 2025 12:55:04.978 [1308:10404:1224/125504.978:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 24, 2025 12:55:30.254 [1308:10404:1224/125530.254:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+
+Dec 26, 2025 11:22:26.447 NEW SESSION
+Dec 26, 2025 11:22:26.447 Created TensorFlow Lite XNNPACK delegate for CPU.
+Dec 26, 2025 11:22:28.866 [9000:15836:1226/112228.866:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 26, 2025 11:22:49.168 [9000:15836:1226/112249.168:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 26, 2025 11:23:42.686 [9000:15836:1226/112342.686:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 26, 2025 11:25:29.412 [9000:15836:1226/112529.412:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT
+Dec 26, 2025 11:29:13.980 [9000:15836:1226/112913.980:ERROR:google_apis\gcm\engine\registration_request.cc:292] Registration response error message: DEPRECATED_ENDPOINT

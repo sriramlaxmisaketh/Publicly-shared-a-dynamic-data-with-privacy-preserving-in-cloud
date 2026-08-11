@@ -1,0 +1,33 @@
+search view.jsp
+<tr>
+    <td>FILE ID </td>
+    <td>File Name</td>
+    <td>BLOCK 1</td>
+    <td>BLOCK 2</td>
+  </tr>
+
+		
+		
+	
+		<%
+               	
+        		      String fname = request.getParameter("fname");
+						session=request.getSession();  
+		 				session.setAttribute("fname",fname);  
+                    StringBuffer sb=new StringBuffer();
+        		  	  System.out.println("user file  name"+fname);
+        	            List<FileModel> lt = Dao.getFile(fname);
+        	           for(FileModel fm:lt){
+        	        	   int length=fm.getFileContent().length();
+        	          
+        	           %>
+        	        	   <tr>
+        	        	   <td><%=fm.getFileId() %></td>
+        	        	     <td><%=fm.getFileName() %></td>
+        	        	     <td><%=fm.getFileContent().substring(0,length/2) %></td>
+        	        	     <td><%=fm.getFileContent().substring(length/2) %></td>
+        	        	   </tr>
+        	           <% }
+        	            %>
+        	   --------------------
+---------------------------
